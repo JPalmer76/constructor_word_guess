@@ -13,7 +13,8 @@ var Food = [
   "quesadilla",
   "nachos",
   "dinech potatoes",
-  "pannini"
+  "pannini",
+  "butter"
   
 ];
 // Pick Random index from UnitedStates array
